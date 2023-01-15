@@ -1,4 +1,4 @@
-### Hi there 👋
+### Greeting 🖖
 
 - 🎓 I’m currently a post-graduate student in HDU
 - 🧩 I'm interested in Cloud Native, Computer Vision and KV Database
@@ -8,13 +8,10 @@
 
 ### Language
 
-- Frequently used
+| Frequently used | Familiar but rarely used |
+|----|----|
+| [![lang](https://skillicons.dev/icons?i=go,py&theme=light)]() | [![lang](https://skillicons.dev/icons?i=c,cpp,js,java,swift,rust&theme=light)]() |
 
-[![lang](https://skillicons.dev/icons?i=go,py&theme=light)]()
-
-- Familiar with
-
-[![lang](https://skillicons.dev/icons?i=c,cpp,js,java,swift,rust&theme=light)]()
 
 ### Skill
 
