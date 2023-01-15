@@ -1,14 +1,25 @@
 ### Hi there 👋
 
 - 🎓 I’m currently a post-graduate student in HDU
-- ⭐️ I'm familiar with Golang, Python, and a little bit of C++
 - 🧩 I'm interested in Cloud Native, Computer Vision and KV Database
 - 📫 How to reach me: shawnhxh@outlook.com
 
-<a href="https://github.com/ShawnHXH">
-  <img align="left" height=180px src="https://github-readme-stats.vercel.app/api?username=ShawnHXH&show_icons=true&count_private=true" />
-</a>
+[![stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ShawnHXH)](https://github.com/ShawnHXH/ShawnHXH)
 
-<br /><br /><br /><br /><br /><br /><br /><br /><br />
+### Language
 
-- 🌱 I've pinned some open source projects that I recently contributed to:
+- Frequently used
+
+[![lang](https://skillicons.dev/icons?i=go,py&theme=light)]()
+
+- Familiar with
+
+[![lang](https://skillicons.dev/icons?i=c,cpp,js,java,swift,rust&theme=light)]()
+
+### Skill
+
+[![skill](https://skillicons.dev/icons?i=docker,kubernetes,prometheus,mysql,redis,pytorch,linux,bash,git,md&theme=light)]()
+
+### Contribution
+
+- 🌱 I've pinned some open source projects that I recently contributed to
